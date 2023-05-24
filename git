@@ -1,0 +1,4 @@
+
+
+this command is used to making a deafualt connection between git and notepad++
+git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
