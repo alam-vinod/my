@@ -1,3 +1,6 @@
+git is a version control system here developpers and opration teams are collabrated if any developper did any change in git it will automatically tracked.
+like whos is changed in perticular foledr like delete based on their commit-id.
+
 first u need to download notepad++ software and set envirolmet varibles in your local computer like as a below
 this pc >> properties >> advance settings >> envirolment varible >>choose system variable here select path and select new after that past it notepadd ++ location 
 "noter pad++ location is stored in C drive"
