@@ -1,4 +1,6 @@
-
+first u need to download notepad++ software and set envirolmet varibles in your local computer like as a below
+this pc >> properties >> advance settings >> envirolment varible >>choose system variable here select path and select new after that past it notepadd ++ location 
+"noter pad++ location is stored in C drive"
 
 this command is used to making a deafualt connection between git and notepad++
 git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
